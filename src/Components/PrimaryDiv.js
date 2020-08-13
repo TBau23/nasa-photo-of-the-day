@@ -16,7 +16,6 @@ const StyledDiv = styled.div`
     color: white;
     
     img {
-        
         animation: ${kf} 1s ease-in-out;
     }
       
